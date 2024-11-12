@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: bb8487fdd3a8d5d47a3db11b594febe3
+timeCreated: 1488711801
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/PBRStageEquipment/Models/Materials/Speakers02.mat
+  uploadId: 404201

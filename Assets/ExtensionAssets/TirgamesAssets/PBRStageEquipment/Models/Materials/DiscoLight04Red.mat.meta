@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 19cf11f9961a1a8458be1aee23661429
+timeCreated: 1488692621
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/PBRStageEquipment/Models/Materials/DiscoLight04Red.mat
+  uploadId: 404201

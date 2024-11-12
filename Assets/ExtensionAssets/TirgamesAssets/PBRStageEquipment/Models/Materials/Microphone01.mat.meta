@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac661ea1a3f169949a23ce7891bef3d4
+timeCreated: 1492249879
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/PBRStageEquipment/Models/Materials/Microphone01.mat
+  uploadId: 404201

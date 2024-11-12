@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3a600913e06c2ac4ca75f1dcde9b9919
+timeCreated: 1488748016
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/PBRStageEquipment/Prefabs/Speakers03.prefab
+  uploadId: 404201

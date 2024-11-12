@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 42d2dac5eff9caf43a7bb2648cac057f
+timeCreated: 1488706290
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/PBRStageEquipment/Prefabs/DiscoLight03.prefab
+  uploadId: 404201

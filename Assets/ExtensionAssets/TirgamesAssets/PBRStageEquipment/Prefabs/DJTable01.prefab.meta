@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9d364abc056428244a008d9d9a3736ee
+timeCreated: 1488828847
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/PBRStageEquipment/Prefabs/DJTable01.prefab
+  uploadId: 404201

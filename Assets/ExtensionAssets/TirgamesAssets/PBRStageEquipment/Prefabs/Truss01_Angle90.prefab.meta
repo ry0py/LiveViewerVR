@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7d2282a05c5e8db4abbf1902329e5a8e
+timeCreated: 1488514176
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/PBRStageEquipment/Prefabs/Truss01_Angle90.prefab
+  uploadId: 404201

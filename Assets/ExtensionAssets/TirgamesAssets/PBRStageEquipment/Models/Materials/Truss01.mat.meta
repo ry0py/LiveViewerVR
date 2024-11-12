@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 208bd470cbfe4bd4e9aab73ae0ddcebc
+timeCreated: 1488611636
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/PBRStageEquipment/Models/Materials/Truss01.mat
+  uploadId: 404201

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ec9195feb0c94e1418704b6d6c55f4fb
+timeCreated: 1541484869
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/PBRStageEquipment/Prefabs/PanelLed01.prefab
+  uploadId: 404201

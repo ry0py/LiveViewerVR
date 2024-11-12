@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e5521e28319d1224d95ec98461fa8676
+timeCreated: 1492367779
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/PBRStageEquipment/Models/Materials/DJControl02.mat
+  uploadId: 404201

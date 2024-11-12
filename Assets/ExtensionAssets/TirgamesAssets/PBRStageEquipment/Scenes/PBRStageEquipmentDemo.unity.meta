@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f84571bf102f58b4189d844932b47c17
+timeCreated: 1488811577
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/PBRStageEquipment/Scenes/PBRStageEquipmentDemo.unity
+  uploadId: 404201

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 79ff6eda41400d844b966617cc061d07
+timeCreated: 1507456092
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/PBRStageEquipment/Animations/MirrorBall01.controller
+  uploadId: 404201

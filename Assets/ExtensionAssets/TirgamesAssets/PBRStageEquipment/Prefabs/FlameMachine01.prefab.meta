@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f37958a8acbe53b4d935d2ea5dc321d6
+timeCreated: 1507529382
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/PBRStageEquipment/Prefabs/FlameMachine01.prefab
+  uploadId: 404201

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: fe9bf0f8fbf7b564ca2c626f0bae5a1a
+timeCreated: 1492371527
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/PBRStageEquipment/Models/Materials/StageCurtain02.mat
+  uploadId: 404201

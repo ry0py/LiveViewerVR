@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4daccbc0e42a5eb4dbba79ad8732b869
+timeCreated: 1507449672
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/PBRStageEquipment/Prefabs/SmokeMachine01.prefab
+  uploadId: 404201

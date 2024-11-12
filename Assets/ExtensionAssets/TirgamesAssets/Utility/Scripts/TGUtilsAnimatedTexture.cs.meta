@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 67c06a7cb093ca34084c88d8a616d938
+timeCreated: 1502359038
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/Utility/Scripts/TGUtilsAnimatedTexture.cs
+  uploadId: 404201

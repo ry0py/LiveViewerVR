@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 13512b3e5f019e643bc08a5698aa402f
+timeCreated: 1540273510
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/Utility/Models/Materials/DoorFrameLight.mat
+  uploadId: 404201

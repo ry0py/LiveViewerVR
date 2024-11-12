@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0022baba36bbd4d4f891677cea46bdfa
+timeCreated: 1540272459
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/Utility/ReadMeTGUtility.txt
+  uploadId: 404201

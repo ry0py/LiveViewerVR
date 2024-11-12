@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8359196305d8b024c812a88d51e7e13c
+timeCreated: 1488229906
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/PBRStageEquipment/Prefabs/DJControl01_1.prefab
+  uploadId: 404201

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 79798799251031449aadc9487075caa1
+timeCreated: 1503594307
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/PBRStageEquipment/Prefabs/DMXController01_Dyn.prefab
+  uploadId: 404201

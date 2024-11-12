@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 3df4cf7434300df458ea672910ab9152
+timeCreated: 1488525885
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/PBRStageEquipment/Prefabs/Truss01_Circle15m.prefab
+  uploadId: 404201

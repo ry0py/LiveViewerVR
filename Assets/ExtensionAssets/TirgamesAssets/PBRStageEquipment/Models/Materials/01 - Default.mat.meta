@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8058b1a0ab0df8c4b9dc388659cf9c45
+timeCreated: 1492442395
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/PBRStageEquipment/Models/Materials/01 - Default.mat
+  uploadId: 404201

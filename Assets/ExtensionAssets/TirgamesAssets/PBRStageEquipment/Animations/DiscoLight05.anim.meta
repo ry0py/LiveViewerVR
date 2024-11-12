@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8c6ca4f6498f0eb44b89959199bb6405
+timeCreated: 1507617180
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/PBRStageEquipment/Animations/DiscoLight05.anim
+  uploadId: 404201

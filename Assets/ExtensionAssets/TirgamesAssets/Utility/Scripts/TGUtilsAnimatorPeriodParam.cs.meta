@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0b91087612052004096af9badef99aa5
+timeCreated: 1507615917
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/Utility/Scripts/TGUtilsAnimatorPeriodParam.cs
+  uploadId: 404201

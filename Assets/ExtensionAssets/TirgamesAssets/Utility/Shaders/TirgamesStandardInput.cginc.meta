@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a190c7b7ef4cad24aab5c63ae44f398b
+timeCreated: 1492838611
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/Utility/Shaders/TirgamesStandardInput.cginc
+  uploadId: 404201

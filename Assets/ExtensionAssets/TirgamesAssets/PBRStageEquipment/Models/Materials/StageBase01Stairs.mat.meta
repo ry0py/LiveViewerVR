@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a3bbf761af888fb4f9d6dfa77821c147
+timeCreated: 1492447130
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/PBRStageEquipment/Models/Materials/StageBase01Stairs.mat
+  uploadId: 404201

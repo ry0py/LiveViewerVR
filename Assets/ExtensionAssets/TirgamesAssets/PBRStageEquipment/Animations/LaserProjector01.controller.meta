@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 23c5df0d1fe0cea4c97d167922cc135f
+timeCreated: 1507704085
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/PBRStageEquipment/Animations/LaserProjector01.controller
+  uploadId: 404201

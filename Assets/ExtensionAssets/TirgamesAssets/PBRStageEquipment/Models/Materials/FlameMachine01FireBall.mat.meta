@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e890f2ff185ef15419d06050d58e8bc5
+timeCreated: 1507568090
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/PBRStageEquipment/Models/Materials/FlameMachine01FireBall.mat
+  uploadId: 404201

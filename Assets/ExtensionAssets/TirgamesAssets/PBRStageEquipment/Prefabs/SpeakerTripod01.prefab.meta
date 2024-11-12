@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4eb2a99c90fc72c47a7c7840b87d84ca
+timeCreated: 1492326788
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/PBRStageEquipment/Prefabs/SpeakerTripod01.prefab
+  uploadId: 404201

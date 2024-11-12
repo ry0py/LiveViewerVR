@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f9d5514eb61c68047a1d892c5b4119df
+timeCreated: 1492249968
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/PBRStageEquipment/Prefabs/Microphone01.prefab
+  uploadId: 404201

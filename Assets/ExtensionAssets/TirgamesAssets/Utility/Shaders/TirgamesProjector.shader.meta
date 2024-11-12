@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1d72d7add811f264fbd312ea54218ecb
+timeCreated: 1507547080
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/Utility/Shaders/TirgamesProjector.shader
+  uploadId: 404201

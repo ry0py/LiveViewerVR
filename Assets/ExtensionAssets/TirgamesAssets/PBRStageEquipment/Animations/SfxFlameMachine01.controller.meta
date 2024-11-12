@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 30f556091cdee674da01960c902ddd27
+timeCreated: 1507571723
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/PBRStageEquipment/Animations/SfxFlameMachine01.controller
+  uploadId: 404201

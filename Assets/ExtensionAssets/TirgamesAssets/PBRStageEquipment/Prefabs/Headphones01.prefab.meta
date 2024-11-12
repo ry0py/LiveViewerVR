@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4be0b72398bea7c41a24061f033201e2
+timeCreated: 1488260419
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/PBRStageEquipment/Prefabs/Headphones01.prefab
+  uploadId: 404201

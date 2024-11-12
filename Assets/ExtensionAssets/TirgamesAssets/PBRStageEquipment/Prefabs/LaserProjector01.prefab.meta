@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9cf8419cbff54164eb796d102e1d7cbd
+timeCreated: 1507534031
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/PBRStageEquipment/Prefabs/LaserProjector01.prefab
+  uploadId: 404201

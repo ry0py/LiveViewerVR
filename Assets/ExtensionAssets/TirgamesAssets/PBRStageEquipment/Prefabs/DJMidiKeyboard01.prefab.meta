@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 37a165fe25772a04ba60be2671c33176
+timeCreated: 1492344412
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/PBRStageEquipment/Prefabs/DJMidiKeyboard01.prefab
+  uploadId: 404201

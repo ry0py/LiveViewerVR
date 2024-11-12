@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 20b68c1a1afc55b41b82ab63861db2d6
+timeCreated: 1503242779
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/PBRStageEquipment/Prefabs/PanelLight04_1.prefab
+  uploadId: 404201

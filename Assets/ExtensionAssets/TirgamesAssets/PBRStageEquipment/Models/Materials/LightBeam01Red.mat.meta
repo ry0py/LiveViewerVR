@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 71da383ebf594c84bbe00c519eabbe96
+timeCreated: 1507637188
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/PBRStageEquipment/Models/Materials/LightBeam01Red.mat
+  uploadId: 404201

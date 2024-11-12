@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 82d1f796e268d8c44b9aaa0aa81a32d4
+timeCreated: 1492493723
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 84617
+  packageName: PBR Stage Equipment
+  packageVersion: 1.4
+  assetPath: Assets/TirgamesAssets/PBRStageEquipment/Prefabs/StageBase01_2.prefab
+  uploadId: 404201
