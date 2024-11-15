@@ -20,11 +20,11 @@ MonoBehaviour:
     rid: 7704973131306762240
   m_OverrideGlobalSceneList: 1
   m_Scenes:
-  - m_enabled: 1
+  - m_enabled: 0
     m_path: Assets/Scenes/VFXTest.unity
   - m_enabled: 0
     m_path: Assets/Samples/WebXR Interactions/0.22.0/Sample Scene/Scenes/Desert.unity
-  - m_enabled: 0
+  - m_enabled: 1
     m_path: Assets/Scenes/LiveViewer.unity
   m_ScriptingDefines: []
   m_PlayerSettingsYaml:
